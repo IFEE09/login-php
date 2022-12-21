@@ -7,7 +7,9 @@
     <title>Login</title>
 </head>
 <body>
-    
+    <main class="major-parent">
+        
+    </main>
 </body>
 </html>
 
